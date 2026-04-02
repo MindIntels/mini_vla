@@ -551,7 +551,7 @@ print(actions.shape)  # (2, 16, 7)
 
 ```bash
 # 运行所有测试
-cd /hdd/home/zhangh77/LLM/mini_vla
+cd mini_vla
 python -m pytest tests/ -v
 
 # 运行单个模块测试
